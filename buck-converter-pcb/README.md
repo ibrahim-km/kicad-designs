@@ -13,6 +13,16 @@ Completed
 - Power Electronics Design
 - PCB Layout Design
 
-## Images
+## Project Images
 
-Images will be added soon.
+### Schematic
+
+![Schematic](images/schematic.png)
+
+### PCB Layout
+
+![PCB Layout](images/pcb-layout.png)
+
+### 3D Render
+
+![3D View](images/3d-view.png)
